@@ -1,0 +1,9 @@
+MODELING: All classes and diagrams follow the UML format
+-- Jar file is openable via instructions
+
+
+-- modified from src-- 
+Author: Orvar Segerström
+Date: 2013
+Code version: 1.0
+Accessible: https://github.com/sidestep/mips-sim
